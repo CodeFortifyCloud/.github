@@ -116,7 +116,7 @@ Our engineering approach prioritizes:
 | Platform | Description |
 |---|---|
 | **ScanOps** | Enterprise-grade vulnerability scanning and attack surface management platform |
-| **ScanOps** | [github.com/CodeFortifyCloud/scanops](https://github.com/CodeFortifyCloud/scanops) | Enterprise-grade vulnerability scanning and attack surface management platform |
+| **ScanOps** | [Enterprise-grade vulnerability scanning and attack surface management platform](https://github.com/CodeFortifyCloud/scanops) | Enterprise-grade vulnerability scanning, network assessment, attack surface management, and security operations platform designed for controlled internal environments and authorized security workflows. |
 | **CloudFlowOps** | CI/CD orchestration and deployment automation platform |
 | **NucleiForge** | Security automation and vulnerability intelligence system |
 | **IncidentMatrix** | Incident analysis and archive management platform |
